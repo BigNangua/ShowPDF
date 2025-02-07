@@ -1,0 +1,9 @@
+E:\work_Nangua\ShowPDF\ShowPDF\obj\Debug\ResolveAssemblyReference.cache
+E:\work_Nangua\ShowPDF\ShowPDF\obj\Debug\ShowPDF.Form1.resources
+E:\work_Nangua\ShowPDF\ShowPDF\obj\Debug\ShowPDF.Properties.Resources.resources
+E:\work_Nangua\ShowPDF\ShowPDF\obj\Debug\ShowPDF.csproj.GenerateResource.Cache
+E:\work_Nangua\ShowPDF\ShowPDF\bin\Debug\ShowPDF.exe
+E:\work_Nangua\ShowPDF\ShowPDF\bin\Debug\ShowPDF.pdb
+E:\work_Nangua\ShowPDF\ShowPDF\bin\Debug\PdfiumViewer.dll
+E:\work_Nangua\ShowPDF\ShowPDF\obj\Debug\ShowPDF.exe
+E:\work_Nangua\ShowPDF\ShowPDF\obj\Debug\ShowPDF.pdb
